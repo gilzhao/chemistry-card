@@ -46,9 +46,9 @@
   position: relative;
   display: inline-block;
   vertical-align: top;
-  font-size: 14px;
-  width: 180px;
-  height: 240px;
+  font-size: 12px;
+  width: 150px;
+  height: 200px;
   box-sizing: border-box;
   padding: 10px 15px;
   border: 1px solid #ccc;
@@ -62,7 +62,7 @@
 }
 .front .title {
   position: relative;
-  height: 36px;
+  height: 32px;
   width: 100%;
 }
 
@@ -75,25 +75,25 @@
 .title .n {
   position: absolute;
   left: 0;
-  top: 18px;
+  top: 16px;
 }
 
 .title .m {
   position: absolute;
   top: 0;
   right: 0;
-  line-height: 36px;
-  font-size: 24px;
+  line-height: 32px;
+  font-size: 20px;
 }
 
 .element {
-  margin-top: 10px;
+  margin-top: 8px;
 }
 
 .symbol {
-  margin-top: -5px;
-  height: 75px;
-  font-size: 72px;
+  margin-top: -8px;
+  height: 60px;
+  font-size: 60px;
 }
 
 .element .e div {
@@ -102,17 +102,17 @@
 
 .front .bottom, .back .type {
   position: absolute;
-  bottom : 18px;
+  bottom : 15px;
   left: 10px;
   right: 10px;
   text-align: center;
-  font-size: 12px;
+  font-size: 11px;
 }
 
 .intro {
-  margin: 10px 0;
-  padding: 5px;
+  margin: 5px 0;
+  padding: 5px 0;
   text-align: left;
-  font-size: 13px;
+  font-size: 12px;
 }
 
